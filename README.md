@@ -1,1 +1,1 @@
-# ToDoList
+# ToDoList is a to do list manager. Users can add items, mark them complete, load items from a file, save the items to a file, or quit. When the EXTENSION_FLAG is set true, users can also add multiple items as once and view their completed tasks.
